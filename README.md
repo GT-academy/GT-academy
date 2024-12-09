@@ -41,7 +41,7 @@ Somos más que una academia; somos un ecosistema de innovación y aprendizaje. G
 - 📧 Email: __
 - 🌐 Web: [https://globaltecnoacademy.com](https://www.globaltecnologiasacademy.com)
 - 📱 Redes Sociales: [Linkedin](https://www.linkedin.com/company/globaltecnologiasacademy/)
-- 📱 WhatsApp: [Escíbenos](https://api.whatsapp.com/send?phone=51927275985&text=Buenas%2C%20quisiera%20informaci%C3%B3n%20sobre....%F0%9F%98%80)
+- 📱 WhatsApp: [Escríbenos](https://api.whatsapp.com/send?phone=51927275985&text=Buenas%2C%20quisiera%20informaci%C3%B3n%20sobre....%F0%9F%98%80)
 
 ---
 

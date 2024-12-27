@@ -1,7 +1,7 @@
 # 🌟 Bienvenidos a Global Tecnologías Academy 🌟
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Logo de Global Tecnologías Academy">
+  <img src="img.jpg" alt="Logo de Global Tecnologías Academy">
 </p>
 
 ## 🚀 Nuestra Misión
